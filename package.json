@@ -1,0 +1,15 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "This is for CDIO3 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Long",
+    "Tran"
+  ],
+  "author": "Long Tran",
+  "license": "ISC"
+}
